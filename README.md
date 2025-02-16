@@ -1,7 +1,6 @@
 <h2>10 Essential Formulas for Analyst</h2>
 This repository provides a reference for commonly used Excel formulas. These functions are essential for data manipulation and analysis.
 
-List of Formulas
 1. IFERROR - Returns a value you specify if a formula evaluates to an error; otherwise, it returns the result of the formula.
 2.  LEFT, MID, & RIGHT - LEFT: Extracts the first characters from a text string, based on the number of characters you specify / MID: Returns a specific number of characters from a text string starting at the position you specify / RIGHT - Extracts the last characters from a text string, based on the number of characters you specify.
 3. CONCATENATE - Joins two or more text strings into one.
